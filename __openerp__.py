@@ -4,7 +4,7 @@
 
 {
     'name': 'Partners Unique',
-    'version': '9.0.0.1.0',
+    'version': '9.0.1.0.0',
     'category': 'Hidden',
     'author': 'Humanytek',
     'website': "http://www.humanytek.com",
